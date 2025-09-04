@@ -1,4 +1,4 @@
-# ?? Unity Third-Person Game Demo
+# Unity Third-Person Game Demo
 
 This project demonstrates how to create a simple **third-person game** using the Unity engine.  
 It covers the following key features:
@@ -10,7 +10,7 @@ It covers the following key features:
 
 ---
 
-## ?? Preview
+## Preview
 
 ### Idle Animation
 ![Idle Animation](media/movie_001.gif)
